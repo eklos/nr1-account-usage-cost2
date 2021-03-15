@@ -1,0 +1,68 @@
+{
+  "lastUpdated": "Mon Mar 15 2021 12:12:12 GMT-0400 (Eastern Daylight Time)",
+  "projectName": "NR1 Account Usage Cost2",
+  "projectUrl": "https://github.com/eklos/nr1-account-usage-cost2",
+  "includeDev": true,
+  "dependencies": {
+    "prop-types@15.7.2": {
+      "name": "prop-types",
+      "version": "15.7.2",
+      "range": "^15.6.2",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/facebook/prop-types",
+      "versionedRepoUrl": "https://github.com/facebook/prop-types/tree/v15.7.2",
+      "licenseFile": "node_modules/prop-types/LICENSE",
+      "licenseUrl": "https://github.com/facebook/prop-types/blob/v15.7.2/LICENSE",
+      "licenseTextSource": "file"
+    },
+    "react-dom@16.14.0": {
+      "name": "react-dom",
+      "version": "16.14.0",
+      "range": "^16.6.3",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/facebook/react",
+      "versionedRepoUrl": "https://github.com/facebook/react/tree/v16.14.0",
+      "licenseFile": "node_modules/react-dom/LICENSE",
+      "licenseUrl": "https://github.com/facebook/react/blob/v16.14.0/LICENSE",
+      "licenseTextSource": "file"
+    },
+    "react@16.14.0": {
+      "name": "react",
+      "version": "16.14.0",
+      "range": "^16.6.3",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/facebook/react",
+      "versionedRepoUrl": "https://github.com/facebook/react/tree/v16.14.0",
+      "licenseFile": "node_modules/react/LICENSE",
+      "licenseUrl": "https://github.com/facebook/react/blob/v16.14.0/LICENSE",
+      "licenseTextSource": "file"
+    },
+    "semantic-ui-css@2.4.1": {
+      "name": "semantic-ui-css",
+      "version": "2.4.1",
+      "range": "^2.4.1",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/Semantic-Org/Semantic-UI-CSS",
+      "versionedRepoUrl": "https://github.com/Semantic-Org/Semantic-UI-CSS/tree/v2.4.1",
+      "licenseFile": "node_modules/semantic-ui-css/LICENSE",
+      "licenseUrl": "https://github.com/Semantic-Org/Semantic-UI-CSS/blob/v2.4.1/LICENSE",
+      "licenseTextSource": "file",
+      "publisher": "Jack Lukic",
+      "email": "jack@semantic-ui.com"
+    },
+    "semantic-ui-react@2.0.1": {
+      "name": "semantic-ui-react",
+      "version": "2.0.1",
+      "range": "^2.0.1",
+      "licenses": "MIT",
+      "repoUrl": "https://github.com/Semantic-Org/Semantic-UI-React",
+      "versionedRepoUrl": "https://github.com/Semantic-Org/Semantic-UI-React/tree/v2.0.1",
+      "licenseFile": "node_modules/semantic-ui-react/LICENSE.md",
+      "licenseUrl": "https://github.com/Semantic-Org/Semantic-UI-React/blob/v2.0.1/LICENSE.md",
+      "licenseTextSource": "file",
+      "publisher": "Levi Thomason",
+      "email": "me@levithomason.com"
+    }
+  },
+  "devDependencies": {}
+}

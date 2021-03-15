@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "nr1-account-usage-cost2",
+    "version": "1.22.1",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "1a4c3483-7ecc-4329-8299-1dae31086a8f"
+    },
+    "dependencies": {
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3",
+        "semantic-ui-css": "^2.4.1",
+        "semantic-ui-react": "^2.0.1"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
